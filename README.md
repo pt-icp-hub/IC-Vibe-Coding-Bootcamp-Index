@@ -4,7 +4,7 @@ Welcome to the **IC Vibe Coding Bootcamp (Rust Edition)**, a next-level coding e
 
 ⏰ **Bootcamp dates**: May 12 – Jun 1, 2025  
 🎯 **Event description**: [View Details](https://lu.ma/5o20vabw)  
-📅 **Calendar**: [Add Calendar!](TODO)
+📅 **Calendar**: [Add Calendar!](TODO)  
 📩 **Submit a challenge**: [Submission Form](TODO)
 
 ---
