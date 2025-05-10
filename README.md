@@ -26,18 +26,16 @@ This isn’t just another bootcamp, it’s an immersive dev flow powered by:
 
 Each challenge below includes a complete template repository to help you get started. Open them in GitHub Codespaces or run them locally!
 
+### 🦀 **Rust Beginner Bootcamp Template**
+New to Rust? This template-based bootcamp offers structured, progressive modules to teach you Rust from scratch, culminating in an ICP-based final challenge.
+
+🔗 [Beginner Rust Bootcamp Repo](https://github.com/pt-icp-hub/ICP-Bootcamp-Vibe-Coding-Beginner)  
+📖 [Bootcamp Docs](https://pt-icp-hub.github.io/ICP-Bootcamp-Vibe-Coding-Beginner/)
+
 ### 🧪 **Vibe Coding Template (Rust + PocketIC + picJS)**
 Kickstart your Rust development with a fully-tested, GitHub-ready backend using PocketIC and Vitest. Includes CI/CD, Copilot instructions, and devcontainer support.
 
 🔗 [Vibe Coding Template Repo](https://github.com/pt-icp-hub/ICP-Bootcamp-Vibe-Coding)
-
----
-
-### ⏳ TODO: Add More Templates
-- ⛓️ Inter-Canister Comms Challenge ?
-- 🔄 HTTP Outcall Integration Challenge ?
-- 🧠 AI Testing Generator Challenge ?
-- 📈 Telemetry & Monitoring Challenge ?
 
 ---
 
