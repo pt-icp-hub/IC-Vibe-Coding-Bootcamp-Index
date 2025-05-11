@@ -2,7 +2,7 @@
 
 Welcome to the **IC Vibe Coding Bootcamp (Rust Edition)**, a next-level coding experience for developers ready to build smarter backends with **Rust**, **AI-assisted workflows**, and **test-first development** on the **Internet Computer Protocol (ICP)**. 🦀⚙️🤖
 
-⏰ **Bootcamp dates**: May 12 – Jun 1, 2025  
+⏰ **Bootcamp dates**: May 12 – May 31, 2025  
 🎯 **Event description**: [View Details](https://lu.ma/kyvm8zyd)  
 📅 **Calendar**: [Add Calendar!](https://calendar.google.com/calendar/render?cid=c_6744577f97f417890e54590adf9d4d1c422aaf6ba52ec6db384538d962bbc592@group.calendar.google.com&es=3)  
 📩 **Submit a challenge**: [Submission Form](https://forms.gle/Sgmm1y2bLXYY7mwC6)
